@@ -1,5 +1,5 @@
 {
-    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "ga", "theme-code" ],
+    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "ga", "theme-code", "chapter-fold" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
