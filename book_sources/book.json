@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/biggsin/testbook/edit/master/",
+        "base": "https://github.com/biggsin/testbook/edit/master/book_sources/",
         "label": "Edit This Page"
       },
       "ga": {
