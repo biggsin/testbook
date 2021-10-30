@@ -6,9 +6,10 @@
 
 加入：
 
-`dtparam=audio=off`
-
-`dtoverlay=allo-boss-dac-pcm512x-audio`
+```bash
+dtparam=audio=off
+dtoverlay=allo-boss-dac-pcm512x-audio
+```
 
 ### 設定Boss為default
 
