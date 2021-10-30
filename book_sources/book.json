@@ -1,5 +1,5 @@
 {
-    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "theme-comscore", "ga" ],
+    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "ga", "theme-nio@git://github.com/niolabs/gitbook-plugin-theme-nio.git" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
