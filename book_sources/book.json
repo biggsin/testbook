@@ -1,12 +1,12 @@
 {
-    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "ga", "chapter-fold" ],
+    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "ga", "chapter-fold", "theme-comscore" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
         "family": "sans"
       },
       "theme-default": {
-        "showLevel": true
+        "showLevel": false
       },
       "anchor-navigation-ex": {
           "showLevel": false,
